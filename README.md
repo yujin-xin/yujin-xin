@@ -2,6 +2,8 @@
 
 I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m currently learning and building projects to deepen my skills in network security, threat hunting, and incident response.
 
+## About me
+* 🌱 Studying cybersecurity with a focus on security operations and threat detection.
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
