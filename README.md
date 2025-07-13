@@ -1,4 +1,6 @@
-## Hello! I'm Yujin, an aspiring Security Analyst 
+## Hello! I'm Yujin, an aspiring Security Analyst 👋
+
+I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m currently learning and building projects to deepen my skills in network security, threat hunting, and incident response.
 
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
