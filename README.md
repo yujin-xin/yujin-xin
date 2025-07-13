@@ -1,14 +1,14 @@
-## Hello! I'm Yujin, an aspiring Security Analyst 👋
+## Hello! I'm Yujin👋
 
 I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m currently learning and building projects to deepen my skills in network security, threat hunting, and incident response.
 
 ## About me
 * 🌱 Studying cybersecurity with a focus on security operations and threat detection.
-* 🎯 Experienced with tools like Wireshark, Nmap, and Splunk.
+* 🎯 Experienced with tools like Wireshark, Nmap,.
 
 ## Projects
-- **[CTF Write-ups](https://medium.com/@barete.mart)**: Solutions to Capture The Flag challenges
-- 
+- **[CTF Write-ups](https://medium.com/@barete.mart)**: Solutions to Capture The Flag challenges focused on SOC scenarios
+- **[IDS]()**Intrusion Detection Script
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
