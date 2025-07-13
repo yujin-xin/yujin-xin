@@ -4,6 +4,11 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 
 ## About me
 * 🌱 Studying cybersecurity with a focus on security operations and threat detection.
+* 🎯 Experienced with tools like Wireshark, Nmap, and Splunk.
+
+## Projects
+- **[CTF Write-ups](https://github.com/your-username/ctf-writeups](https://medium.com/@barete.mart))**: Solutions to Capture The Flag challenges
+- 
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
