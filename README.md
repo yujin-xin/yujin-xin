@@ -1,11 +1,11 @@
 ## Hello! I'm Yujin👋
 
-I'm an aspiring **Security Analyst** passionate about cybersecurity.
-I’m currently learning and building projects to deepen my skills in network security, threat hunting, and incident response.
+I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m currently learning, playing CTF, and building projects to deepen my skills in network security, threat hunting, and incident response.
 
 ## About me
-* 🌱 Studying cybersecurity with a focus on security operations and threat detection.
-* 🎯 Experienced with tools like Wireshark, Nmap,.
+* 🎓 BS Information Technology - Data Networking.
+* 🌱 Studying cybersecurity - Focus on security operation and threat detection.
+* 🎯 Tools - Wazuh, Snort, Nessus, wireshark, nmap, ettercap
 
 ## Projects
 - **[CTF Write-ups](https://medium.com/@barete.mart)**: Solutions to Capture The Flag challenges focused on SOC scenarios
