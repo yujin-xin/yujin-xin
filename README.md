@@ -16,6 +16,7 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 
 ## Projects
 - **[CTF Write-ups](https://medium.com/@barete.mart)**: (Ongoing) Solutions to Capture The Flag challenges focused on blue team operations
+- **[File Integrity Monitoring Web App](https://fim-web-based-production.up.railway.app/)**: A web-based application using ExpressJs to monitor file changes
 - **[SIEM Implementation] - (Underdevelopment) Showcasing Wazuh for real-time log analysis, alerting, and threat analysis
 - **[IDS/IPS] - (Underdevelopment) Building an IDS/IPS using Snort with custom rules for intrusion detection and prevention
 
