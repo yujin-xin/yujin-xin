@@ -1,6 +1,6 @@
 ## Hello! I'm Yujin👋
 
-I'm an aspiring **Security Analyst**. I’m currently learning, playing CTF, and building projects to deepen my skills in network security, threat hunting, and incident response.
+I'm an aspiring **Security Analyst**. I’m currently learning in the field, playing CTF, and building projects to deepen my skills in cybersecurity, especially in threat hunting and incident response.
 
 ## About me
 * 🎓 BS Information Technology - Data Networking
