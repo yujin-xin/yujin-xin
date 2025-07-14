@@ -15,9 +15,9 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 - 🔍 **Concepts**: Intrusion Detection, Log Analysis, Network Security, Threat Hunting, Automation
 
 ## Projects
-- ** [CTF Write-ups](https://medium.com/@barete.mart)**: (Ongoing) Solutions to Capture The Flag challenges focused on blue team operations
-- ** [SIEM Implementation] - (Underdevelopment) Showcasing Wazuh for real-time log analysis, alerting, and threat analysis
-- ** [IDS/IPS] - (Underdevelopment) Building an IDS/IPS using Snort with custom rules for intrusion detection and prevention
+- **[CTF Write-ups](https://medium.com/@barete.mart)**: (Ongoing) Solutions to Capture The Flag challenges focused on blue team operations
+- **[SIEM Implementation] - (Underdevelopment) Showcasing Wazuh for real-time log analysis, alerting, and threat analysis
+- **[IDS/IPS] - (Underdevelopment) Building an IDS/IPS using Snort with custom rules for intrusion detection and prevention
 
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
