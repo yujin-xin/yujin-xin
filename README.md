@@ -3,8 +3,8 @@
 I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m currently learning, playing CTF, and building projects to deepen my skills in network security, threat hunting, and incident response.
 
 ## About me
-* 🎓 BS Information Technology - Data Networking.
-* 🌱 Studying cybersecurity - Focus on security operation and threat detection.
+* 🎓 BS Information Technology - Data Networking
+* 🌱 Studying cybersecurity - Focus on security operation and threat detection
 * 🎯 Tools - Wazuh, Snort, Nessus, wireshark, nmap
 * 👾 Security Framework - MITRE ATT&CK
 
