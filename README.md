@@ -5,7 +5,6 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 ## About me
 * 🎓 BS Information Technology - Data Networking
 * 🌱 Studying cybersecurity - Focus on security operation and threat detection
-* 🎯 Tools - Wazuh, Snort, Nessus, wireshark, nmap
 * 👾 Security Framework - MITRE ATT&CK
 
 ## Skills
@@ -21,7 +20,9 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 - **[IDS/IPS] - (Underdevelopment) Building an IDS/IPS using Snort with custom rules for intrusion detection and prevention
 ---
 
-⚡ **Fun Fact**: I also like developing web applications and IoT systems, a passion I pursued as a sideline in college, which helped me quickly adapt to new technologies despite limited experience. 
+⚡ **Fun Fact**
+* sideline: I also like developing web applications and IoT systems, a passion I pursued as a sideline in college, which helped me quickly adapt to new technologies despite limited experience.
+* Beyond Academics: I like running, I do play instruments, and I like reading psychology and self-help books.
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
