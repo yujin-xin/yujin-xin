@@ -9,14 +9,15 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 * 👾 Security Framework - MITRE ATT&CK
 
 ## Skills
-- ✅ **Networking**: TCP/IP, Routing and Switching
+- ✅ **Networking**: TCP/IP Stack, Routing and Switching, Packet Analysis
 - 🧠 **Programming Languages**: Python, JavaScript, Java, Bash, PowerShell
 - 🎯 **Tools**: Wazuh (SIEM), Snort (IDS/IPS), Nessus (vulnerability assessment), Wireshark, Nmap, VirtualBox/VMware
 - 🔍 **Concepts**: Intrusion Detection, Log Analysis, Network Security, Threat Hunting, Automation
 
-## Projects (OutSide GitHub)
-- ** [CTF Write-ups](https://medium.com/@barete.mart)**: (Ongoing) Solutions to Capture The Flag challenges focused on blue team scenarios
-- ** [SIEM Implementation] - Showcasing Wazuh for real-time log analysis and alerting
+## Projects
+- ** [CTF Write-ups](https://medium.com/@barete.mart)**: (Ongoing) Solutions to Capture The Flag challenges focused on blue team operations
+- ** [SIEM Implementation] - (Underdevelopment) Showcasing Wazuh for real-time log analysis, alerting, and threat analysis
+- ** [IDS/IPS] - (Underdevelopment) Building an IDS/IPS using Snort with custom rules for intrusion detection and prevention
 
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
