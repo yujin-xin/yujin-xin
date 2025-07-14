@@ -20,6 +20,13 @@ I'm an aspiring **Security Analyst** passionate about cybersecurity. I’m curre
 - **[SIEM Implementation] - (Underdevelopment) Showcasing Wazuh for real-time log analysis, alerting, and threat analysis
 - **[IDS/IPS] - (Underdevelopment) Building an IDS/IPS using Snort with custom rules for intrusion detection and prevention
 
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/eug-yuj/)
+- [Insta](https://x.com/your-username)
+
+---
+
+⚡ **Fun Fact**: I also like developing web applications and IoT systems, a passion I pursued as a sideline in college, which helped me quickly adapt to new technologies despite limited experience. 
 <!--
 **yujin-xin/yujin-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
