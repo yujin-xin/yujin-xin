@@ -1,17 +1,16 @@
-## Hello! I'm Yujin👋
+## Hello! I'm Yujin
 
-I'm an aspiring **Security Analyst**. I’m currently learning in the field, playing CTFs, and building cybersecurity related projects to deepen my skills, especially in blue team operations.
+In my free time / day off, I play CTFs, work on small cybersecurity projects, and write write-ups to improve my skills, which helps reinforce what I learn.
 
 ## About me
 * 🎓 BS Information Technology - Data Networking
-* 🌱 Studying cybersecurity - Focus on security operation and threat detection
-* 👾 Security Framework - MITRE ATT&CK
+* 🛡️ Network and Security Operation Center (present)
 
 ## Skills
-- ✅ **Networking**: TCP/IP Stack, Routing and Switching, Packet Analysis
+- ✅ **Networking**: TCP/IP Stack, Routing and Switching
 - 🧠 **Programming Languages**: Python, JavaScript, Java, Bash, PowerShell
-- 🎯 **Tools**: Wazuh (SIEM), Snort (IDS/IPS), Nessus (vulnerability assessment), Wireshark, Nmap, VirtualBox/VMware
-- 🔍 **Concepts**: Intrusion Detection, Log Analysis, Network Security, Threat Hunting, Automation
+- 🎯 **Tools**: SIEM (Wazuh, FortiSIEM, StellarCyber), EDR/XDR (Sophos XDR, Microsoft 365 Defender), Nessus (vulnerability assessment), FortiAnalyzer, FortiManager, Wireshark, VirtualBox/VMware
+- 🔍 **Concepts**: EDR/XDR, SIEM, Packet Analysis, Network Security, Threat Hunting, Automation
 
 ## Projects
 - **[CTF Write-ups](https://medium.com/@barete.mart)**: (Ongoing) Solutions to Capture The Flag challenges focused on blue team operations
